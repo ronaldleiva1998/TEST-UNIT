@@ -1,0 +1,15 @@
+C:\Users\Ronald\Desktop\test\inyecciondependencia\bin\Debug\net6.0\inyecciondependencia.exe
+C:\Users\Ronald\Desktop\test\inyecciondependencia\bin\Debug\net6.0\inyecciondependencia.deps.json
+C:\Users\Ronald\Desktop\test\inyecciondependencia\bin\Debug\net6.0\inyecciondependencia.runtimeconfig.json
+C:\Users\Ronald\Desktop\test\inyecciondependencia\bin\Debug\net6.0\inyecciondependencia.dll
+C:\Users\Ronald\Desktop\test\inyecciondependencia\bin\Debug\net6.0\inyecciondependencia.pdb
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.csproj.AssemblyReference.cache
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.AssemblyInfoInputs.cache
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.AssemblyInfo.cs
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.dll
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\refint\inyecciondependencia.dll
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.pdb
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\inyecciondependencia.genruntimeconfig.cache
+C:\Users\Ronald\Desktop\test\inyecciondependencia\obj\Debug\net6.0\ref\inyecciondependencia.dll
